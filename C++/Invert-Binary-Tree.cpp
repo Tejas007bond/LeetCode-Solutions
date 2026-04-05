@@ -24,3 +24,6 @@ public:
         return root;
     }
 };
+
+// Time complexity - O(n)
+// Space complexity - O(h) where h is the height of the tree
